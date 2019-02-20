@@ -1,0 +1,1 @@
+Replace this text with the shell script used for preprocessing your fastq files.  Depending on your project, it might make sense to have multiple shell scripts if you tried different ways of preprocessing your raw data.
